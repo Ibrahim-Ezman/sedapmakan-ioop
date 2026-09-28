@@ -1,4 +1,4 @@
-# SedapMakan Restaurant System — IOOP
+# SedapMakan Restaurant System — Introduction to Object Oriented Programming (IOOP)
 
 **CT044-3-1-IOOP | C# + SQL Server | Group project**
 
