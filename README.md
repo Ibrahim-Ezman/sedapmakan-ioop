@@ -1,6 +1,6 @@
 # SedapMakan Restaurant System — IOOP
 
-**CT044-3-1-IOOP | C# + SQL Server | Group project (4 members)**
+**CT044-3-1-IOOP | C# + SQL Server | Group project**
 
 Restaurant management system for Bukit Jalil — 4 roles: Admin, Manager, Chef, Customer. E-wallet, feedback, refunds, menu ordering.
 
@@ -11,4 +11,4 @@ Restaurant management system for Bukit Jalil — 4 roles: Admin, Manager, Chef, 
 - `CustomerSQL.sql` — schema: Customers, MenuItems, Orders, Feedback, RefundRequests, EWalletTransactions
 
 ## Group split
-Admin/Loading/Login — Tauedea Arehui Gabi | Manager/Sign Up — Her Cheng En | **Customer + design — Me (Ibrahim Bin Mohd Ezman, TP081387)** | Chef/Restaurant Menu — Mohammad Amin Abdalla Yahya
+Admin/Loading/Login — teammate | Manager/Sign Up — teammate | **Customer + design — Me (Ibrahim Bin Mohd Ezman, TP081387)** | Chef/Restaurant Menu — teammate
